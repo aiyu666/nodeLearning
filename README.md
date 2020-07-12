@@ -1,6 +1,7 @@
 # 我可以你也可以的 Node.js
 
 ## 文章列表
+![](https://i.imgur.com/Fp6hgeE.png)
 [【我可以你也可以的Node.js】第一篇 - 前言](https://ithelp.ithome.com.tw/articles/10198524)
 
 [【我可以你也可以的Node.js】第二篇 - 曖昧萌芽的第一句話](https://ithelp.ithome.com.tw/articles/10229947)
