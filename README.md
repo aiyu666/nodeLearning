@@ -31,3 +31,5 @@
 [【我可以你也可以的Node.js】第十四篇 - Node's file system - 使用串流的方式讀寫檔案](https://ithelp.ithome.com.tw/articles/10232049)
 
 [【我可以你也可以的Node.js】第十五篇 - 打造一個 API 讓自己減肥永遠都是夢想- 肥宅的第一步 #Express #麥當勞報報優惠券](https://ithelp.ithome.com.tw/articles/10232137)
+
+[【我可以你也可以的Node.js】第十六篇 - Node 子行程 child_process](https://ithelp.ithome.com.tw/articles/10232335)
