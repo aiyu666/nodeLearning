@@ -41,3 +41,5 @@
 [【我可以你也可以的Node.js】第十八篇 - 打造一個 API 讓自己減肥永遠都是夢想- 肥宅的第二步 #自動領取 #Express #麥當勞報報優惠券](https://ithelp.ithome.com.tw/articles/10232517)
 
 [【我可以你也可以的Node.js】第十九篇 - ZLib 壓縮以及解壓縮](https://ithelp.ithome.com.tw/articles/10232600)
+
+[【我可以你也可以的Node.js】第二十篇 - Node Cluster 讓你的 Thread 不再孤軍奮戰](https://ithelp.ithome.com.tw/articles/10232695)
