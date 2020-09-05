@@ -9,7 +9,7 @@ const url = '/accounts/balance'
 const nonce = Date.now()
 const completeURL = baseUrl + url
 // This is the default body for the authenticated APIs using GET method
-const body = { identity: '[Your account (email)]', nonce }
+const body = { identㄉity: '[Your account (email)]', nonce }
 
 const payload = Buffer.from(JSON.stringify(body)).toString('base64')
 
