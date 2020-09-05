@@ -43,3 +43,9 @@
 [【我可以你也可以的Node.js】第十九篇 - ZLib 壓縮以及解壓縮](https://ithelp.ithome.com.tw/articles/10232600)
 
 [【我可以你也可以的Node.js】第二十篇 - Node Cluster 讓你的 Thread 不再孤軍奮戰](https://ithelp.ithome.com.tw/articles/10232695)
+
+[【我可以你也可以的Node.js】第二一篇 - 如何使用 Socket.io 讓你的網頁不用 reload 也可以隨時更新資料](https://ithelp.ithome.com.tw/articles/10232815)
+
+[【我可以你也可以的Node.js】第二二篇 - Crypto 加密模組 #以串接 BitoPro API 為例](https://ithelp.ithome.com.tw/articles/10232947)
+
+[【我可以你也可以的Node.js】第二三篇 - 蛤！原來串接 Google Sheet API 那麼簡單?](https://ithelp.ithome.com.tw/articles/10234325)
